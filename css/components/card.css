@@ -1,0 +1,25 @@
+.card-zone{
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.card{
+  width: 30%;
+  height: 100%;
+  box-shadow: 2px 2px 4px rgb(210, 203, 203);
+  border: solid;
+  border-color: rgb(210, 203, 203);
+  border-width: .1px;
+}
+
+.card p{
+  color: #808080;
+}
+
+.card img{
+  margin: 10% 0 15% 0;
+  width: 90%;
+  height: 30%;
+}

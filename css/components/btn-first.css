@@ -1,0 +1,14 @@
+.btn-first{
+  text-decoration: none;
+  color: white;
+  background-color: #68DA8F ;
+  border-radius: 25px;
+  display: inline-block;
+  cursor: pointer;
+  padding: 10px 30px;
+}
+
+.btn-first:hover{
+  background-color: #D90368 ;
+  transition: .3s;
+}
